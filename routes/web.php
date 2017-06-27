@@ -23,4 +23,4 @@ Route::get('/profile.index');
 Route::get('/show_all', 'PagesController@tabled_show');
 Route::get('/add_student', 'PagesController@add_student_page');
 
-Route::post('/updated', 'StudentsController@update');
+Route::post('/upppppppp', 'StudentsController@update');
